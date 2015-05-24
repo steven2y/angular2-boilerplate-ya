@@ -1,0 +1,19 @@
+{
+  "name": "angular2-boilerplate-ya",
+  "version": "0.0.0",
+  "authors": [
+    "steven2y <steven2y@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
